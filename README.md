@@ -1,11 +1,9 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8080ff&height=120&section=header" alt="header"/> 
 
+
 <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=8080ff&width=600&lines=Hello%2C+it's+Tomer+Bitton;Electrical+and+Electronics+Engineering+Student" alt="Electrical and Electronics Engineering Student"/>
 </a>
-
-
-
 
 <h3 align="left">About me:</h3>
 <p align="left">
@@ -22,10 +20,8 @@
 
 </p>
 
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/78701779/118412678-f2486300-b6b8-11eb-9178-cd75230ad8a5.gif" />
   <ul>
     <li style="display: flex; align-items: center;">
       <span>Connect with me on LinkedIn</span>
@@ -48,17 +44,7 @@
   </ul>
 </p>
 
-<div style="text-align: center; padding: 20px; background-color: #8080FF; color: white; border-radius: 8px; max-width: 500px; margin: auto;">
-  <h3 style="margin: 0;">Looking for my CV?</h3>
-  <a href="https://drive.google.com/drive/folders/1k4oiJ_Q2lgiR202LEbiZeYb1pZtDMqSM?usp=sharing" download>
-    <img src="https://img.icons8.com/color/48/000000/resume.png" alt="Resume Icon" width="40" style="margin: 15px 0;" />
-  </a>
-  <p style="margin: 10px 0;">Download a detailed overview of my skills and experience.</p>
-</div>
-
-
-
-<h3 style="margin: 0;">Projects</h3>
+<h3 style="margin: 0;">Projects:</h3>
 <h4 style="margin: 0;">🐍 Matlab Snake Game</h4>
 <table style="width: 100%; border-spacing: 0; margin-top: 20px;">
   <tr>
@@ -80,8 +66,7 @@
   </tr>
 </table>
 
-
-<br> <!-- Add a line break -->
+<br>
 <h4 style="margin: 0;">📡 UART 8 bit transmitter and receiver</h4>
 <table>
   <tr>
@@ -103,14 +88,13 @@ This project implements a <strong>  Universal Asynchronous Receiver-Transmitter 
   </tr>
 </table>
 
-
-<br> <!-- Add a line break -->
+<br> 
 <h4 style="margin: 0;">🎓 Binary Arithmetic and Digital Circuit Simulator</h4>
 <table>
   <tr>
     <td>
       <a href="https://github.com/TomerBitton1/Binary_Arithmetic_and_Digital_Circuit_Simulator">
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlIZyvEXgLb0ytZeksYext0PZdJC1AiAYPxA&s" width="100%" alt="Binary Arithmetic and Digital Circuit Simulator">
+        <img src="https://i.imgur.com/VY1GU4o.jpeg" width="100%" alt="Binary Arithmetic and Digital Circuit Simulator">
       </a>
     </td>
     <td>
@@ -125,7 +109,6 @@ This Python program offers a versatile toolkit for <strong>binary arithmetic and
     </td>
   </tr>
 </table>
-
 
 <br> 
 <h3 align="left">Languages and Tools:</h3>
@@ -184,19 +167,19 @@ This Python program offers a versatile toolkit for <strong>binary arithmetic and
   </tr>
 </table>
 
-
-
-
-
-
 <p align="center">
    <img src="https://github.com/eshan1925/eshan1925/blob/output/github-contribution-grid-snake.svg" alt="snake">
 </p>
 
 <h3>
 <div align="center">
+<div style="text-align: center; padding: 20px; background-color: #8080FF; color: white; border-radius: 8px; max-width: 500px; margin: auto;">
+  <h4 style="margin: 0;">CV</h4>
+  <a href="https://drive.google.com/drive/folders/1k4oiJ_Q2lgiR202LEbiZeYb1pZtDMqSM?usp=sharing" download>
+    <img src="https://img.icons8.com/color/48/000000/resume.png" alt="Resume Icon" width="40" style="margin: 15px 0;" />
+  </a>
+</div>
 
 ⭐️ From [Tomer Bitton](https://github.com/TomerBitton1) | Let's create together! <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px" height="30px">
-
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8080ff&height=120&section=footer" alt="footer"/>
