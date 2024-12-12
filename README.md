@@ -59,82 +59,69 @@
 
 
 <h3 style="margin: 0;">Projects</h3>
-<h4 style="margin: 0;">🍁 Matlab Snake Game</h4>
-<a href="https://maplelawai.com">View Demo</a>
-<table>
+<h4 style="margin: 0;">🐍 Matlab Snake Game</h4>
+<table style="width: 100%; border-spacing: 0; margin-top: 20px;">
   <tr>
-    <td>
-      <a href="https://maplelawai.com">
-        <img src="/saasimages/Screenshot%202024-09-25%20200423.png" width="100%" alt="Empowering Legal Access">
+    <td style="padding: 0;">
+      <a href="https://github.com/TomerBitton1/Matlab_Snake_Game">
+        <img src="https://i.imgur.com/xqhgX9L.png" style="width: 100%; height: auto;" alt="Matlab Snake Game">
       </a>
     </td>
-    <td>
-      <a href="https://maplelawai.com">
-        <img src="/saasimages/Screenshot%202024-09-25%20202326.png" width="100%" alt="User-Friendly Interface">
+    </td>
+    <td style="padding: 0;">
+      <a href="https://github.com/TomerBitton1/Matlab_Snake_Game">
+        <img src="https://i.imgur.com/jEYVD1x.jpeg" style="width: 100%; height: auto;" alt="Matlab Snake Game">
       </a>
     </td>
   </tr>
-  <tr>
     <td colspan="2">
-      <p><strong>Welcome to 🍁 <a href="https://maplelawai.com">MapleLawAI</a>,</strong> your all-in-one AI-powered legal tool designed to support Canadian citizens, lawyers, immigrants, law students, and small businesses. Imagine a world where legal barriers no longer exist—where access to legal knowledge and services is a right for every Canadian, regardless of their background or financial standing. This is not merely a vision; it is the reality 🍁MapleLawAI is creating.</p>
-      <p>🍁<strong>MapleLawAI</strong> is an avant-garde platform set to revolutionize the legal sector in Canada. Developed for both clients and legal professionals, this platform stands as a beacon of innovation, efficiency, and accessibility. By leveraging the most advanced Large Language Models (LLMs) and a comprehensive vector database containing all Canadian legal documents, MapleLawAI ensures access to the most accurate and up-to-date legal information.</p>
-      <p>The Next.js application, styled with ShadCN Tailwind CSS, offers a seamless and intuitive user experience. Integrated with Clerk for secure authentication and powered by the Vercel AI SDK with edge runtime capabilities, MapleLawAI delivers swift AI responses and reliable performance. Whether researching case law, preparing for court, or seeking legal advice, MapleLawAI serves as a trusted partner.</p>
-      <p>The development does not stop here. MapleLawAI is continually evolving with future features such as a virtual courthouse, where arguments can be presented and a virtual judge delivers justice. The platform will also analyze case law to provide statistics and insightful answers, complemented by comprehensive dashboards and a robust research platform. Additionally, there are plans to expand globally with specialized legal AI tools including Egale Legal AI for the USA, JusticeMate AI for Australia, RedBusLaw AI for the UK, MaoriJusticeAI for New Zealand, and FrankfurtLegalBot for Germany.</p>
-    </td>
-  </tr>
-</table>
-
-
-
-<br> <!-- Add a line break -->
-<h4 style="margin: 0;">🍁 UART 8 bit transmitter and receiver</h4>
-<a href="https://maplelawai.com">View Demo</a>
-<table>
-  <tr>
-    <td>
-      <a href="https://maplelawai.com">
-        <img src="/saasimages/Screenshot%202024-09-25%20200423.png" width="100%" alt="Empowering Legal Access">
-      </a>
-    </td>
-    <td>
-      <a href="https://maplelawai.com">
-        <img src="/saasimages/Screenshot%202024-09-25%20202326.png" width="100%" alt="User-Friendly Interface">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      <p><strong>Welcome to 🍁 <a href="https://maplelawai.com">MapleLawAI</a>,</strong> your all-in-one AI-powered legal tool designed to support Canadian citizens, lawyers, immigrants, law students, and small businesses. Imagine a world where legal barriers no longer exist—where access to legal knowledge and services is a right for every Canadian, regardless of their background or financial standing. This is not merely a vision; it is the reality 🍁MapleLawAI is creating.</p>
-      <p>🍁<strong>MapleLawAI</strong> is an avant-garde platform set to revolutionize the legal sector in Canada. Developed for both clients and legal professionals, this platform stands as a beacon of innovation, efficiency, and accessibility. By leveraging the most advanced Large Language Models (LLMs) and a comprehensive vector database containing all Canadian legal documents, MapleLawAI ensures access to the most accurate and up-to-date legal information.</p>
-      <p>The Next.js application, styled with ShadCN Tailwind CSS, offers a seamless and intuitive user experience. Integrated with Clerk for secure authentication and powered by the Vercel AI SDK with edge runtime capabilities, MapleLawAI delivers swift AI responses and reliable performance. Whether researching case law, preparing for court, or seeking legal advice, MapleLawAI serves as a trusted partner.</p>
-      <p>The development does not stop here. MapleLawAI is continually evolving with future features such as a virtual courthouse, where arguments can be presented and a virtual judge delivers justice. The platform will also analyze case law to provide statistics and insightful answers, complemented by comprehensive dashboards and a robust research platform. Additionally, there are plans to expand globally with specialized legal AI tools including Egale Legal AI for the USA, JusticeMate AI for Australia, RedBusLaw AI for the UK, MaoriJusticeAI for New Zealand, and FrankfurtLegalBot for Germany.</p>
+    <strong> The MATLAB Snake Game</strong> is a graphical implementation of the classic arcade game, where players control a snake to collect apples while avoiding collisions with the game board's boundaries or the snake's body. The game features an interactive interface built with MATLAB’s GUI functionalities, allowing players to control the snake using arrow keys. Apples appear randomly on the board, and collecting them increases the snake's length and score, with real-time updates displayed. The game dynamically adjusts speed as the snake grows, increasing the difficulty. It ends when the snake collides with the boundaries or itself, with a pop-up displaying the game-over message. This project showcases dynamic visual updates, speed scaling, and customizable settings, making it both engaging and challenging.
     </td>
   </tr>
 </table>
 
 
 <br> <!-- Add a line break -->
-<h4 style="margin: 0;">🍁Binary Arithmetic and Digital Circuit Simulator</h4>
-<a href="https://maplelawai.com">View Demo</a>
+<h4 style="margin: 0;">📡 UART 8 bit transmitter and receiver</h4>
 <table>
   <tr>
     <td>
-      <a href="https://maplelawai.com">
-        <img src="/saasimages/Screenshot%202024-09-25%20200423.png" width="100%" alt="Empowering Legal Access">
+      <a href="https://github.com/TomerBitton1/UART_8_bit_transmitter_and_receiver">
+        <img src="https://raw.githubusercontent.com/TomerBitton1/UART_8_bit_transmitter_and_receiver/refs/heads/main/UART/Waveform.jpg" width="100%" alt="UART 8 bit transmitter and receiver">
       </a>
     </td>
     <td>
-      <a href="https://maplelawai.com">
-        <img src="/saasimages/Screenshot%202024-09-25%20202326.png" width="100%" alt="User-Friendly Interface">
+      <a href="https://github.com/TomerBitton1/UART_8_bit_transmitter_and_receiver">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRX3CnZ07QzoZbvBw_zL0YFJSVkhf7eue-xfw&s" width="100%" alt="UART 8 bit transmitter and receiver">
       </a>
     </td>
   </tr>
   <tr>
     <td colspan="2">
-      <p><strong>Welcome to 🍁 <a href="https://maplelawai.com">MapleLawAI</a>,</strong> your all-in-one AI-powered legal tool designed to support Canadian citizens, lawyers, immigrants, law students, and small businesses. Imagine a world where legal barriers no longer exist—where access to legal knowledge and services is a right for every Canadian, regardless of their background or financial standing. This is not merely a vision; it is the reality 🍁MapleLawAI is creating.</p>
-      <p>🍁<strong>MapleLawAI</strong> is an avant-garde platform set to revolutionize the legal sector in Canada. Developed for both clients and legal professionals, this platform stands as a beacon of innovation, efficiency, and accessibility. By leveraging the most advanced Large Language Models (LLMs) and a comprehensive vector database containing all Canadian legal documents, MapleLawAI ensures access to the most accurate and up-to-date legal information.</p>
-      <p>The Next.js application, styled with ShadCN Tailwind CSS, offers a seamless and intuitive user experience. Integrated with Clerk for secure authentication and powered by the Vercel AI SDK with edge runtime capabilities, MapleLawAI delivers swift AI responses and reliable performance. Whether researching case law, preparing for court, or seeking legal advice, MapleLawAI serves as a trusted partner.</p>
-      <p>The development does not stop here. MapleLawAI is continually evolving with future features such as a virtual courthouse, where arguments can be presented and a virtual judge delivers justice. The platform will also analyze case law to provide statistics and insightful answers, complemented by comprehensive dashboards and a robust research platform. Additionally, there are plans to expand globally with specialized legal AI tools including Egale Legal AI for the USA, JusticeMate AI for Australia, RedBusLaw AI for the UK, MaoriJusticeAI for New Zealand, and FrankfurtLegalBot for Germany.</p>
+This project implements a <strong>  Universal Asynchronous Receiver-Transmitter (UART)</strong>  using Verilog, accompanied by a testbench to validate functionality. The design supports data transmission and reception following the UART protocol. The transmitter sends a start bit, 8 data bits, and a stop bit, while the receiver detects the start bit, processes 8 data bits, and verifies the stop bit. The project includes Verilog modules, a testbench (UART_TB.v), flowcharts for transmission and reception processes, and simulation commands for waveform analysis. Simulation can be executed in environments like ModelSim using the provided scripts.
+    </td>
+  </tr>
+</table>
+
+
+<br> <!-- Add a line break -->
+<h4 style="margin: 0;">🎓 Binary Arithmetic and Digital Circuit Simulator</h4>
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/TomerBitton1/Binary_Arithmetic_and_Digital_Circuit_Simulator">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlIZyvEXgLb0ytZeksYext0PZdJC1AiAYPxA&s" width="100%" alt="Binary Arithmetic and Digital Circuit Simulator">
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/TomerBitton1/Binary_Arithmetic_and_Digital_Circuit_Simulator">
+        <img src="https://play-lh.googleusercontent.com/51Zj7nGxTs32bHKYkM0A-WfT5AFus8Xkk_tq-5a2BmjfuuLKsMerPNgcgTOtpapBDw=w240-h480-rw" width="100%" alt="Binary Arithmetic and Digital Circuit Simulator">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+This Python program offers a versatile toolkit for <strong>binary arithmetic and digital circuit simulations</strong>. It supports various conversions between binary, octal, decimal, and hexadecimal formats, and implements operations like logical AND, arithmetic addition, subtraction, increment, decrement, multiplication, division, and bit-shifting (logical, arithmetic, and circular). Additionally, the program simulates digital circuits, including logic gates (NAND, NOR), combinational circuits (adders, subtractors, multiplexers, encoders), and sequential circuits (flip-flops, counters, frequency dividers). The intuitive interface allows users to choose from a menu of operations and implementations, making it a practical tool for learning and experimentation.
     </td>
   </tr>
 </table>
