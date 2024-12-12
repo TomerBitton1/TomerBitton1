@@ -1,16 +1,10 @@
 <div align="center">
-  <a href="https://rishavchanda.io">
-    <img src="https://user-images.githubusercontent.com/78701779/118412678-f2486300-b6b8-11eb-9178-cd75230ad8a5.gif" alt="MasterHead" style="width: 850px; height: 250px; object-fit: cover;"/>
-  </a>
+  <img src="https://user-images.githubusercontent.com/78701779/118412678-f2486300-b6b8-11eb-9178-cd75230ad8a5.gif" alt="MasterHead" style="width: 850px; height: 250px; object-fit: cover;"/>
 </div>
-
 
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = "30px">, I'm Tomer Bitton</h1>
 <h2 align="center">Electrical and Electronics Engineering Student</h2>
-
-
-
 
 
 <h3 align="left">About me:</h3>
@@ -27,8 +21,6 @@
 - 🤝 I’m currently seeking exciting job opportunities where I can apply my skills and contribute to impactful projects.
 
 </p>
-
-
 
 
 <h3 align="left">Connect with me:</h3>
@@ -55,8 +47,6 @@
     </li>
   </ul>
 </p>
-
-
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -114,7 +104,6 @@
     </td>
   </tr>
 </table>
-
 
 
 <p align="center">
