@@ -1,10 +1,10 @@
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/78701779/118412678-f2486300-b6b8-11eb-9178-cd75230ad8a5.gif" alt="MasterHead" style="width: 850px; height: 250px; object-fit: cover;"/>
-</div>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8080ff&height=120&section=header" alt="header"/> 
+
+<a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=8080ff&width=600&lines=Hello%2C+it's+Tomer+Bitton;Electrical+and+Electronics+Engineering+Student" alt="Electrical and Electronics Engineering Student"/>
+</a>
 
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = "30px">, I'm Tomer Bitton</h1>
-<h2 align="center">Electrical and Electronics Engineering Student</h2>
 
 
 <h3 align="left">About me:</h3>
@@ -25,7 +25,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2JkMW5oOTRpNWx0dDh0djA0MGwzZ2M4b3Rxcmc4ZHIwczQzOXBlZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KX5nwoDX97AtPvKBF6/giphy.webp" />
+  <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/78701779/118412678-f2486300-b6b8-11eb-9178-cd75230ad8a5.gif" />
   <ul>
     <li style="display: flex; align-items: center;">
       <span>Connect with me on LinkedIn</span>
@@ -47,6 +47,14 @@
     </li>
   </ul>
 </p>
+
+<div style="text-align: center; padding: 20px; background-color: #8080FF; color: white; border-radius: 8px; max-width: 500px; margin: auto;">
+  <h3 style="margin: 0;">Looking for my CV?</h3>
+  <a href="https://drive.google.com/drive/folders/1k4oiJ_Q2lgiR202LEbiZeYb1pZtDMqSM?usp=sharing" download>
+    <img src="https://img.icons8.com/color/48/000000/resume.png" alt="Resume Icon" width="40" style="margin: 15px 0;" />
+  </a>
+  <p style="margin: 10px 0;">Download a detailed overview of my skills and experience.</p>
+</div>
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -109,3 +117,11 @@
 <p align="center">
    <img src="https://github.com/eshan1925/eshan1925/blob/output/github-contribution-grid-snake.svg" alt="snake">
 </p>
+
+<h3>
+<div align="center">
+
+⭐️ From [Tomer Bitton](https://github.com/TomerBitton1) | Let's create together! <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px" height="30px">
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8080ff&height=120&section=footer" alt="footer"/>
