@@ -1,13 +1,13 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8080ff&height=120&section=header" alt="header"/> 
 
 <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=8080ff&width=600&lines=Hello%2C+it's+Tomer+Bitton;Electrical+and+Electronics+Engineering+Student" alt="Electrical and Electronics Engineering Student"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=350&color=8080ff&width=600&lines=Hello%2C+I'm+Tomer+Bitton;Electrical+and+Electronics+Engineering+Student" alt="Electrical and Electronics Engineering Student"/>
 </a>
 
 <h3 align="left">About me:</h3>
 <p align="left">
 
-- 🎓 I’m a fourth-year Electrical and Electronics Engineering student at Azrieli College, specializing in **Embedded Systems** and **Electro-optics**, with a **GPA of 89**.  
+- 🎓 I’m a fourth-year Electrical and Electronics Engineering student at Azrieli College of Engineering Jerusalem, specializing in **Embedded Systems** and **Electro-optics**, with a **GPA of 89**.  
 
 - 🔧 I’ve worked on projects like developing a **Snake Game in MATLAB**, a **UART 8-bit transmitter and receiver in Verilog**, and a **Python-based Binary Arithmetic and Digital Circuit Simulator**.
 
@@ -76,7 +76,7 @@
     </td>
     <td>
       <a href="https://github.com/TomerBitton1/UART_8_bit_transmitter_and_receiver">
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRX3CnZ07QzoZbvBw_zL0YFJSVkhf7eue-xfw&s" width="100%" alt="UART 8 bit transmitter and receiver">
+        <img src="https://i.imgur.com/wbqDR7g.jpeg" width="100%" alt="UART 8 bit transmitter and receiver">
       </a>
     </td>
   </tr>
@@ -93,12 +93,12 @@ This project implements a <strong>  Universal Asynchronous Receiver-Transmitter 
   <tr>
     <td>
       <a href="https://github.com/TomerBitton1/Binary_Arithmetic_and_Digital_Circuit_Simulator">
-        <img src="https://i.imgur.com/VY1GU4o.jpeg" width="100%" alt="Binary Arithmetic and Digital Circuit Simulator">
+        <img src="https://i.imgur.com/fcO633U.jpeg" width="100%" alt="Binary Arithmetic and Digital Circuit Simulator">
       </a>
     </td>
     <td>
       <a href="https://github.com/TomerBitton1/Binary_Arithmetic_and_Digital_Circuit_Simulator">
-        <img src="https://play-lh.googleusercontent.com/51Zj7nGxTs32bHKYkM0A-WfT5AFus8Xkk_tq-5a2BmjfuuLKsMerPNgcgTOtpapBDw=w240-h480-rw" width="100%" alt="Binary Arithmetic and Digital Circuit Simulator">
+        <img src="https://i.imgur.com/VY1GU4o.jpeg" width="100%" alt="Binary Arithmetic and Digital Circuit Simulator">
       </a>
     </td>
   </tr>
@@ -109,7 +109,7 @@ This Python program offers a versatile toolkit for <strong>binary arithmetic and
   </tr>
 </table>
 
-<br> 
+
 <h3 align="left">Languages and Tools:</h3>
 <table align="left" style="border-collapse: collapse;">
   <tr style="background-color: #ffffff;">
@@ -180,6 +180,3 @@ This Python program offers a versatile toolkit for <strong>binary arithmetic and
 </h3>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8080ff&height=120&section=footer" alt="footer"/>
-
-
-
