@@ -1,6 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8080ff&height=120&section=header" alt="header"/> 
 
-
 <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=8080ff&width=600&lines=Hello%2C+it's+Tomer+Bitton;Electrical+and+Electronics+Engineering+Student" alt="Electrical and Electronics Engineering Student"/>
 </a>
@@ -173,13 +172,14 @@ This Python program offers a versatile toolkit for <strong>binary arithmetic and
 
 <h3>
 <div align="center">
-<div style="text-align: center; padding: 20px; background-color: #8080FF; color: white; border-radius: 8px; max-width: 500px; margin: auto;">
-  <h4 style="margin: 0;">CV</h4>
-  <a href="https://drive.google.com/drive/folders/1k4oiJ_Q2lgiR202LEbiZeYb1pZtDMqSM?usp=sharing" download>
-    <img src="https://img.icons8.com/color/48/000000/resume.png" alt="Resume Icon" width="40" style="margin: 15px 0;" />
-  </a>
-</div>
+  
+⭐️ From [Tomer Bitton](https://drive.google.com/drive/folders/1k4oiJ_Q2lgiR202LEbiZeYb1pZtDMqSM?usp=sharing) | Let's create together! <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px" height="30px">
 
-⭐️ From [Tomer Bitton](https://github.com/TomerBitton1) | Let's create together! <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px" height="30px">
+
+</div>
+</h3>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8080ff&height=120&section=footer" alt="footer"/>
+
+
+
