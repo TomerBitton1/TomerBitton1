@@ -20,28 +20,29 @@
 </p>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-  <ul>
-    <li style="display: flex; align-items: center;">
+<div style="margin-top: 0;">
+  <ul style="list-style: none; padding-left: 0; margin: 0;">
+    <li style="display: flex; align-items: center; margin-bottom: 5px;">
       <span>Connect with me on LinkedIn</span>
       <a href="https://linkedin.com/in/tomer--bitton/" target="_blank" style="display: inline; margin-left: 5px;">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Tomer Bitton LinkedIn" height="20" width="30" style="vertical-align: middle;" />
       </a>
     </li>
-    <li style="display: flex; align-items: center;">
+    <li style="display: flex; align-items: center; margin-bottom: 5px;">
       <span>Reach out via Email</span>
       <a href="mailto:tomerbitton23@gmail.com" target="_blank" style="display: inline; margin-left: 5px;">
         <img src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" alt="Email Tomer Bitton" height="20" width="30" style="vertical-align: middle;" />
       </a>
     </li>
-    <li style="display: flex; align-items: center;">
+    <li style="display: flex; align-items: center; margin-bottom: 5px;">
       <span>Contact me by Phone</span>
       <a href="https://wa.me/0503335079" target="_blank" style="display: inline; margin-left: 5px;">
         <img src="https://seeklogo.com/images/W/whatsapp-logo-0DBD89C8E2-seeklogo.com.png" alt="Call Tomer Bitton" height="20" width="30" style="vertical-align: middle;" />
       </a>
     </li>
   </ul>
-</p>
+</div>
+
 
 <h3 style="margin: 0;">Projects:</h3>
 <h4 style="margin: 0;">🐍 Matlab Snake Game</h4>
