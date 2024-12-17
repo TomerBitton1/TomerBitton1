@@ -7,7 +7,7 @@
 <h3 align="left">About me:</h3>
 <p align="left">
 
-- 🎓 I’m a fourth-year Electrical and Electronics Engineering student at Azrieli College of Engineering Jerusalem, specializing in **Embedded Systems** and **Electro-optics**, with a **GPA of 89**.  
+- 🎓 I’m a fourth-year Electrical and Electronics Engineering student at Azrieli College of Engineering Jerusalem, specializing in **Computer Embedded Systems** and **Electro-Optics**, with a **GPA of 89**.  
 
 - 🔧 I’ve worked on projects like developing a **Snake Game in MATLAB**, a **UART 8-bit transmitter and receiver in Verilog**, and a **Python-based Binary Arithmetic and Digital Circuit Simulator**.
 
