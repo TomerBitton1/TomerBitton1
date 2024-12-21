@@ -50,7 +50,7 @@
   <tr>
     <td style="padding: 0;">
       <a href="https://github.com/TomerBitton1/Matlab_Snake_Game">
-        <img src="https://github.com/user-attachments/assets/f41fffb5-ae7e-4def-aac8-2597e31d4183" style="width: 2000px; height: 350px;" alt="Matlab Snake Game">
+        <img src="https://github.com/user-attachments/assets/f41fffb5-ae7e-4def-aac8-2597e31d4183" style="width: 2000px; height: 300px;" alt="Matlab Snake Game">
       </a>
     </td>
     <td style="padding: 0;">
