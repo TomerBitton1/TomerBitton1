@@ -50,9 +50,8 @@
   <tr>
     <td style="padding: 0;">
       <a href="https://github.com/TomerBitton1/Matlab_Snake_Game">
-        <img src="https://i.imgur.com/xqhgX9L.png" style="width: 100%; height: auto;" alt="Matlab Snake Game">
+        <img src="https://github.com/user-attachments/assets/f41fffb5-ae7e-4def-aac8-2597e31d4183" style="width: 2000px; height: 350px;" alt="Matlab Snake Game">
       </a>
-    </td>
     </td>
     <td style="padding: 0;">
       <a href="https://github.com/TomerBitton1/Matlab_Snake_Game">
@@ -60,11 +59,15 @@
       </a>
     </td>
   </tr>
+  <tr>
     <td colspan="2">
-    <strong> The MATLAB Snake Game</strong> is a graphical implementation of the classic arcade game, where players control a snake to collect apples while avoiding collisions with the game board's boundaries or the snake's body. The game features an interactive interface built with MATLAB’s GUI functionalities, allowing players to control the snake using arrow keys. Apples appear randomly on the board, and collecting them increases the snake's length and score, with real-time updates displayed. The game dynamically adjusts speed as the snake grows, increasing the difficulty. It ends when the snake collides with the boundaries or itself, with a pop-up displaying the game-over message. This project showcases dynamic visual updates, speed scaling, and customizable settings, making it both engaging and challenging.
+      <strong>The MATLAB Snake Game</strong> is a graphical implementation of the classic arcade game, where players control a snake to collect apples while avoiding collisions with the game board's boundaries or the snake's body. The game features an interactive interface built with MATLAB’s GUI functionalities, allowing players to control the snake using arrow keys. Apples appear randomly on the board, and collecting them increases the snake's length and score, with real-time updates displayed. The game dynamically adjusts speed as the snake grows, increasing the difficulty. It ends when the snake collides with the boundaries or itself, with a pop-up displaying the game-over message. This project showcases dynamic visual updates, speed scaling, and customizable settings, making it both engaging and challenging.
     </td>
   </tr>
 </table>
+
+
+
 
 <br>
 <h4 style="margin: 0;">📡 UART 8 bit transmitter and receiver</h4>
