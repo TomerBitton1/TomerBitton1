@@ -37,7 +37,7 @@
     <li style="display: flex; align-items: center; margin-bottom: 5px;">
       <span>Contact me by Phone</span>
       <a href="https://wa.me/0503335079" target="_blank" style="display: inline; margin-left: 5px;">
-        <img src="https://seeklogo.com/images/W/whatsapp-logo-0DBD89C8E2-seeklogo.com.png" alt="Call Tomer Bitton" height="20" width="30" style="vertical-align: middle;" />
+        <img src="https://cdn.worldvectorlogo.com/logos/whatsapp-8.svg" alt="Call Tomer Bitton" height="20" width="30" style="vertical-align: middle;" />
       </a>
     </li>
   </ul>
@@ -109,6 +109,29 @@ This project implements a <strong>  Universal Asynchronous Receiver-Transmitter 
   <tr>
     <td colspan="2">
 This Python program offers a versatile toolkit for <strong>binary arithmetic and digital circuit simulations</strong>. It supports various conversions between binary, octal, decimal, and hexadecimal formats, and implements operations like logical AND, arithmetic addition, subtraction, increment, decrement, multiplication, division, and bit-shifting (logical, arithmetic, and circular). Additionally, the program simulates digital circuits, including logic gates (NAND, NOR), combinational circuits (adders, subtractors, multiplexers, encoders), and sequential circuits (flip-flops, counters, frequency dividers). The intuitive interface allows users to choose from a menu of operations and implementations, making it a practical tool for learning and experimentation.
+    </td>
+  </tr>
+</table>
+
+
+<br>
+<h4 style="margin: 0;">🚗 Car Parking System</h4>
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/TomerBitton1/Car_Parking_System/tree/main">
+        <img src="https://github.com/TomerBitton1/Car_Parking_System/blob/main/Car%20Parking%20System/Waveform.jpg?raw=true" width="100%" alt="UART 8 bit transmitter and receiver">
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/TomerBitton1/Car_Parking_System/tree/main">
+        <img src="https://github.com/TomerBitton1/Car_Parking_System/blob/main/Car%20Parking%20System/Illustration%20of%20the%20Car%20Parking%20System.jpg?raw=true" width="100%" alt="Car Parking System">
+      </a>
+    </td>
+  </tr>
+  <tr>
+     <td colspan="2">
+This project implements a smart <strong>car parking system</strong> in VHDL, designed to efficiently manage and monitor the flow of vehicles in a parking lot. The system tracks parking lot capacity in real time, handles cars entering and exiting, and prioritizes exiting vehicles when simultaneous entry and exit requests occur. It uses advanced sensor integration to ensure precise detection of vehicles and seamless traffic control. The design is optimized for scalability, allowing it to adapt to parking lots of various sizes and configurations. 
     </td>
   </tr>
 </table>
