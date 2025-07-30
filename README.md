@@ -1,13 +1,13 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8080ff&height=120&section=header" alt="header"/> 
 
 <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=350&color=8080ff&width=600&lines=Hello%2C+I'm+Tomer+Bitton;Electrical+and+Electronics+Engineering+Student" alt="Electrical and Electronics Engineering Student"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=350&color=8080ff&width=600&lines=Hello%2C+I'm+Tomer+Bitton;Electrical+and+Electronics+Engineer" alt="Electrical and Electronics Engineer"/>
 </a>
 
 <h3 align="left">About me:</h3>
 <p align="left">
 
-- 🎓 I’m a fourth-year Electrical and Electronics Engineering student at Azrieli College of Engineering Jerusalem, specializing in **Embedded Systems** and **Electro-Optics**, with a **GPA of 90**.  
+- 🎓 I’m a Electrical and Electronics Engineering graduate. Specializing in **Embedded Systems** and **Electro-Optics**, with a **GPA of 90**.  
 
 - 🔧 I’ve worked on projects like developing a **Snake Game in MATLAB**, a **UART 8-bit transmitter and receiver in Verilog**, and a **Python-based Binary Arithmetic and Digital Circuit Simulator**.
 
